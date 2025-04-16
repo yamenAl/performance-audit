@@ -6,6 +6,8 @@ De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd
 
 
 ## Titel Website
+for this i will check the media market website and i will docement what i did find and how the test go
+
 
 Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.
 
